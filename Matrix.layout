@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="ArraysLib.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="453" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="matrlib.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="584" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DynMatrLib.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5246" topLine="229" />
+		</Cursor>
+	</File>
+	<File name="ArraysLib.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37" topLine="133" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12449" topLine="630" />
+		</Cursor>
+	</File>
+	<File name="DynMatrLib.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1265" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="matrlib.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="760" topLine="7" />
+		</Cursor>
+	</File>
+	<Target name="Debug" top="main.cpp">
+		<File name="ArraysLib.h" />
+		<File name="matrlib.h" />
+		<File name="main.cpp" />
+		<File name="matrlib.cpp" />
+		<File name="ArraysLib.cpp" />
+		<File name="DynMatrLib.h" />
+		<File name="DynMatrLib.cpp" />
+	</Target>
+</CodeBlocks_layout_file>
